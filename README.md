@@ -22,16 +22,24 @@ Paulista, apaixonado pelo desenvolvimento de software (acredite 😉) estudo há
 - 📚 &nbsp; Quando tenho tempo livre gosto de programar 👨🏻‍💻 e ouvir podcasts 
 - ✨ Algumas curiosidades:
   - 👂 Tenho [ouvido absoluto](https://pt.wikipedia.org/wiki/Ouvido_absoluto)
-  - 🎼 Toco violão e baixo 🎸 e tento cantar 🎤
+  - 🎼 Toco violão e contrabaixo elétrico 🎸 e tento cantar 🎤
   - 🍥 Fã de Naruto 
   - ⚽ São-paulino 🔴⚪⚫
 <br>
 
 ### 🔨 Linguagens e Ferramentas:
 <!-- icons 42 x 42 -->
+<a href="https://www.kernel.org/" target="_blank"><img align="left" alt="linux" src="assets/languages_and_tools/linux.svg"/></a>
+<a href="https://git-scm.com/" target="_blank"><img align="left" alt="git" src="assets/languages_and_tools/git.svg"/></a>
 <a href="https://html.spec.whatwg.org/" target="_blank"><img align="left" alt="html5" src="assets/languages_and_tools/html5.svg" /></a>
 <a href="https://www.w3.org/TR/css3-roadmap/" target="_blank"><img align="left" alt="css3" src="assets/languages_and_tools/css3.svg" /></a>
 <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript" target="_blank"><img align="left" alt="javascript" src="assets/languages_and_tools/js.svg" /></a>
+<a href="https://jestjs.io/" target="_blank"><img align="left" alt="jest" src="assets/languages_and_tools/jest.svg"/></a>
+<a href="https://reactjs.org/" target="_blank"><img align="left" alt="react" src="assets/languages_and_tools/react.svg"/></a>
+<a href="https://testing-library.com/docs/react-testing-library/intro/" target="_blank"><img align="left" alt="react testing library" src="assets/languages_and_tools/octopus.png" width="42"/></a>
+<a href="https://redux.js.org/" target="_blank"><img align="left" alt="redux" src="assets/languages_and_tools/redux.svg"/></a>
+
+
 <!-- 
 **lucasmartins96/lucasmartins96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
