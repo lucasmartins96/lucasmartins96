@@ -46,6 +46,7 @@ Paulista, apaixonado pelo desenvolvimento de software (acredite 😉) estudo há
 
 [![Status GitHub Lucas Martins da Silva](https://github-readme-stats.vercel.app/api?username=lucasmartins96&show_icons=true&theme=midnight-purple)](https://github.com/lucasmartins96/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasmartins96&layout=compact&theme=midnight-purple)](https://github.com/lucasmartins96/github-readme-stats)
 
 
 
