@@ -42,11 +42,17 @@ Paulista, apaixonado pelo desenvolvimento de software (acredite 😉) estudo há
 <br />
 
 
-### 📊 Github Stats
-<a href='https://github.com/lucasmartins96/github-stats-transparent'>
-  
-![Stats Overview](https://raw.githubusercontent.com/lucasmartins96/github-stats-transparent/output/generated/overview.svg)
-![Most Used Languages](https://raw.githubusercontent.com/lucasmartins96/github-stats-transparent/output/generated/languages.svg)
+### 📊 Status Github
+
+[![Status GitHub Lucas Martins da Silva](https://github-readme-stats.vercel.app/api?username=lucasmartins96&show_icons=true&theme=midnight-purple)](https://github.com/lucasmartins96/github-readme-stats)
+
+
+
+
+<!-- <a href='https://github.com/lucasmartins96/github-stats-transparent'> -->
+
+<!-- ![Stats Overview](https://raw.githubusercontent.com/lucasmartins96/github-stats-transparent/output/generated/overview.svg)
+![Most Used Languages](https://raw.githubusercontent.com/lucasmartins96/github-stats-transparent/output/generated/languages.svg) -->
 
 </a>
 
