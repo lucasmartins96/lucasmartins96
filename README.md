@@ -26,9 +26,9 @@ Paulista, apaixonado pelo desenvolvimento de software (acredite 😉) estudo há
   - 🍥 Fã de Naruto 
   - ⚽ São-paulino 🔴⚪⚫
 <br />
+<br />
 
 ### 🔨 Linguagens e Ferramentas:
-<!-- icons 42 x 42 -->
 <a href="https://www.kernel.org/" target="_blank"><img align="left" alt="linux" src="assets/languages_and_tools/linux.svg"/></a>
 <a href="https://git-scm.com/" target="_blank"><img align="left" alt="git" src="assets/languages_and_tools/git.svg"/></a>
 <a href="https://html.spec.whatwg.org/" target="_blank"><img align="left" alt="html5" src="assets/languages_and_tools/html5.svg" /></a>
@@ -38,9 +38,9 @@ Paulista, apaixonado pelo desenvolvimento de software (acredite 😉) estudo há
 <a href="https://reactjs.org/" target="_blank"><img align="left" alt="react" src="assets/languages_and_tools/react.svg"/></a>
 <a href="https://testing-library.com/docs/react-testing-library/intro/" target="_blank"><img align="left" alt="react testing library" src="assets/languages_and_tools/octopus.png" width="42"/></a>
 <a href="https://redux.js.org/" target="_blank"><img align="left" alt="redux" src="assets/languages_and_tools/redux.svg"/></a>
-
 <br />
-
+<br />
+<br />
 
 ### 📊 Status Github
 
