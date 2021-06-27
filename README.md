@@ -25,7 +25,7 @@ Paulista, apaixonado pelo desenvolvimento de software (acredite 😉) estudo há
   - 🎼 Toco violão e contrabaixo elétrico 🎸 e tento cantar 🎤
   - 🍥 Fã de Naruto 
   - ⚽ São-paulino 🔴⚪⚫
-<br>
+<br />
 
 ### 🔨 Linguagens e Ferramentas:
 <!-- icons 42 x 42 -->
@@ -39,6 +39,18 @@ Paulista, apaixonado pelo desenvolvimento de software (acredite 😉) estudo há
 <a href="https://testing-library.com/docs/react-testing-library/intro/" target="_blank"><img align="left" alt="react testing library" src="assets/languages_and_tools/octopus.png" width="42"/></a>
 <a href="https://redux.js.org/" target="_blank"><img align="left" alt="redux" src="assets/languages_and_tools/redux.svg"/></a>
 
+<br />
+
+
+### 📊 Github Stats
+<a href='https://github.com/lucasmartins96/github-stats-transparent'>
+  
+![Stats Overview](https://raw.githubusercontent.com/lucasmartins96/github-stats-transparent/output/generated/overview.svg)
+![Most Used Languages](https://raw.githubusercontent.com/lucasmartins96/github-stats-transparent/output/generated/languages.svg)
+
+</a>
+
+<br>
 
 <!-- 
 **lucasmartins96/lucasmartins96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
