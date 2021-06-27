@@ -27,7 +27,7 @@ Paulista, apaixonado pelo desenvolvimento de software (acredite 😉) estudo há
   - ⚽ São-paulino 🔴⚪⚫
 <br>
 
-### 🔨 Languages and Tools:
+### 🔨 Linguagens e Ferramentas:
 <!-- icons 42 x 42 -->
 <a href="https://html.spec.whatwg.org/" target="_blank"><img align="left" alt="html5" src="assets/languages_and_tools/html5.svg" /></a>
 <a href="https://www.w3.org/TR/css3-roadmap/" target="_blank"><img align="left" alt="css3" src="assets/languages_and_tools/css3.svg" /></a>
