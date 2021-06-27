@@ -1,11 +1,13 @@
 ## Olá 👋 Eu sou Lucas Martins!
-<a href='https://www.linkedin.com/in/lumartins-silva/'><img align='left' alt="linkedin" src="assets/linkedin.png" height='18px'/></a>
-<a href='https://www.facebook.com/lucas.martins.3139/'><img align='left' alt="facebook" src="assets/facebook.png" height='18px'/></a>
-<a href='https://www.instagram.com/lskywalker96/'><img alt="instagram" src="assets/instagram.png" height='18px'/></a>
+<a href="https://www.linkedin.com/in/lumartins-silva/"><img align="left" alt="linkedin" src="assets/linkedin.png" height="18px"/></a>
+<a href="https://www.facebook.com/lucas.martins.3139/"><img align="left" alt="facebook" src="assets/facebook.png" height="18px"/></a>
+<a href="https://www.instagram.com/lskywalker96/"><img alt="instagram" src="assets/instagram.png" height="18px"/></a>
 
-Paulista, apaixonado pelo desenvolvimento de software (acredite 😉) estudo há mais 8 anos buscando e aperfeiçoando o conhecimento. Atualmente estudo na Trybe <a href='https://www.betrybe.com/'><img align='center' alt='trybe' src='https://avatars2.githubusercontent.com/u/55410300?s=200&v=4' alt='trybe' width='20'/></a> cursando o módulo de front-end. 
+Paulista, apaixonado pelo desenvolvimento de software (acredite 😉) estudo há mais 8 anos buscando e aperfeiçoando o conhecimento. Atualmente estudo na Trybe <a href="https://www.betrybe.com/"><img align="center" alt="trybe" src="https://avatars2.githubusercontent.com/u/55410300?s=200&v=4" alt="trybe" width="20"/></a> cursando o módulo de front-end. 
 <br/>
 <br/>
+
+<!-- inserir gif lateral -->
 
 ### 🧐 Mais sobre mim:
 
@@ -21,10 +23,15 @@ Paulista, apaixonado pelo desenvolvimento de software (acredite 😉) estudo há
 - ✨ Algumas curiosidades:
   - 👂 Tenho [ouvido absoluto](https://pt.wikipedia.org/wiki/Ouvido_absoluto)
   - 🎼 Toco violão e baixo 🎸 e tento cantar 🎤
-  - 🍥 Fã de naruto 
+  - 🍥 Fã de Naruto 
   - ⚽ São-paulino 🔴⚪⚫
 <br>
 
+### 🔨 Languages and Tools:
+<!-- icons 42 x 42 -->
+<a href="https://html.spec.whatwg.org/" target="_blank"><img align="left" alt="html5" src="assets/languages_and_tools/html5.svg" /></a>
+<a href="https://www.w3.org/TR/css3-roadmap/" target="_blank"><img align="left" alt="css3" src="assets/languages_and_tools/css3.svg" /></a>
+<a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript" target="_blank"><img align="left" alt="javascript" src="assets/languages_and_tools/js.svg" /></a>
 <!-- 
 **lucasmartins96/lucasmartins96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
