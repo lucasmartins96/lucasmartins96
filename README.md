@@ -7,7 +7,8 @@ Paulista, apaixonado pelo desenvolvimento de software (acredite 😉) estudo há
 <br/>
 <br/>
 
-<!-- inserir gif lateral -->
+<img align="right" alt="GIF" src="assets/animation-gif.gif" width="360px"/>
+
 
 ### 🧐 Mais sobre mim:
 
