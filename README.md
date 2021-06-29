@@ -49,8 +49,11 @@ Paulista, apaixonado pelo desenvolvimento de software (acredite 😉) estudo há
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasmartins96&layout=compact&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=lucasmartins96&color=blueviolet&style=plastic&label=PROFILE+VIEWS" alt="lucasmartins96" /> </p>
 
+⭐️ Baseado em [rahul-jha98](https://github.com/rahul-jha98)
 
+![](https://hit.yhype.me/github/profile?user_id=20894553)
 <!-- <a href='https://github.com/lucasmartins96/github-stats-transparent'> -->
 
 <!-- ![Stats Overview](https://raw.githubusercontent.com/lucasmartins96/github-stats-transparent/output/generated/overview.svg)
