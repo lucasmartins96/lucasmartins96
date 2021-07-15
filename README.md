@@ -18,7 +18,7 @@ Paulista, apaixonado pelo desenvolvimento de software (acredite 😉) estudo há
 - 👨🏻‍💻 &nbsp; A maioria dos meus projetos estão disponíveis no [Github](https://github.com/lucasmartins96?tab=repositories)
 <!-- - 🎨 &nbsp; Using [this svg]() and Figma I made 👉 -->
 - 💬 &nbsp; Pergunte-me sobre qualquer coisa relacionada à tecnologia, fico feliz em ajudar
-- 📫 &nbsp; Sinta-se à vontade para me enviar um [email](lucasmartins.dsilva@gmail.com)
+- 📫 &nbsp; Sinta-se à vontade para enviar um email para <lucasmartins.dsilva@gmail.com>
 <!-- - 📝 &nbsp; Verifique meu [currículo]() -->
 - 📚 &nbsp; Quando tenho tempo livre gosto de programar 👨🏻‍💻 e ouvir podcasts 
 - ✨ Algumas curiosidades:
@@ -53,6 +53,7 @@ Paulista, apaixonado pelo desenvolvimento de software (acredite 😉) estudo há
 
 ⭐️ Baseado em [rahul-jha98](https://github.com/rahul-jha98)
 
+<!-- link abaixo é personalizado para cada usuário em https://yhype.me/ por favor, retire quando clonar! -->
 ![](https://hit.yhype.me/github/profile?user_id=20894553)
 <!-- <a href='https://github.com/lucasmartins96/github-stats-transparent'> -->
 
