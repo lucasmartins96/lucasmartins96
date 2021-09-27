@@ -14,7 +14,7 @@ Paulista, apaixonado pelo desenvolvimento de software (acredite 😉) estudo há
 
 <!-- - 🔭 &nbsp; Atualmente, estou trabalhando na ** ** -->
 <!-- - 🤝 &nbsp; Estou procurando colaborar no [nome-do-projeto]() -->
-- 🌱 &nbsp; No momento estou aprendendo MongoDB
+- 🌱 &nbsp; No momento estou aprendendo NodeJS
 - 👨🏻‍💻 &nbsp; A maioria dos meus projetos estão disponíveis no [Github](https://github.com/lucasmartins96?tab=repositories)
 <!-- - 🎨 &nbsp; Using [this svg]() and Figma I made 👉 -->
 - 💬 &nbsp; Pergunte-me sobre qualquer coisa relacionada à tecnologia, fico feliz em ajudar
