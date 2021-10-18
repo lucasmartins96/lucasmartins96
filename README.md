@@ -15,17 +15,10 @@ Paulista, apaixonado pelo desenvolvimento de software (acredite 😉) estudo há
 <!-- - 🔭 &nbsp; Atualmente, estou trabalhando na ** ** -->
 <!-- - 🤝 &nbsp; Estou procurando colaborar no [nome-do-projeto]() -->
 - 🌱 &nbsp; No momento estou aprendendo NodeJS
-- 👨🏻‍💻 &nbsp; A maioria dos meus projetos estão disponíveis no [Github](https://github.com/lucasmartins96?tab=repositories)
 <!-- - 🎨 &nbsp; Using [this svg]() and Figma I made 👉 -->
-- 💬 &nbsp; Pergunte-me sobre qualquer coisa relacionada à tecnologia, fico feliz em ajudar
 - 📫 &nbsp; Sinta-se à vontade para enviar um email para <lucasmartins.dsilva@gmail.com>
 <!-- - 📝 &nbsp; Verifique meu [currículo]() -->
 - 📚 &nbsp; Quando tenho tempo livre gosto de programar 👨🏻‍💻 e ouvir podcasts 
-- ✨ Algumas curiosidades:
-  - 👂 Tenho [ouvido absoluto](https://pt.wikipedia.org/wiki/Ouvido_absoluto)
-  - 🎼 Toco violão e contrabaixo elétrico 🎸 e tento cantar 🎤
-  - 🍥 Fã de Naruto 
-  - ⚽ São-paulino 🔴⚪⚫
 <br />
 <br />
 
