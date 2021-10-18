@@ -32,6 +32,11 @@ Paulista, apaixonado pelo desenvolvimento de software (acredite 😉) estudo há
 <a href="https://reactjs.org/" target="_blank"><img align="left" alt="react" src="assets/languages_and_tools/react.svg"/></a>
 <a href="https://testing-library.com/docs/react-testing-library/intro/" target="_blank"><img align="left" alt="react testing library" src="assets/languages_and_tools/octopus.png" width="42"/></a>
 <a href="https://redux.js.org/" target="_blank"><img align="left" alt="redux" src="assets/languages_and_tools/redux.svg"/></a>
+<a href="https://www.mysql.com/" target="_blank"><img align="left" alt="mysql" src="assets/languages_and_tools/mysql.svg"/></a>
+<a href="https://www.mongodb.com/" target="_blank"><img align="left" alt="mongodb" src="assets/languages_and_tools/mongodb.svg"/></a>
+<a href="https://nodejs.org/" target="_blank"><img align="left" alt="nodejs" src="assets/languages_and_tools/nodejs.svg"/></a>
+<a href="https://sequelize.org/master/" target="_blank"><img align="left" alt="sequelize" src="assets/languages_and_tools/sequelize.svg"/></a>
+<a href="http://expressjs.com/" target="_blank"><img align="left" alt="expressjs" src="assets/languages_and_tools/express.svg"/></a>
 <br />
 <br />
 <br />
