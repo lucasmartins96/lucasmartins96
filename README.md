@@ -3,7 +3,7 @@
 <a href="https://www.facebook.com/lucas.martins.3139/"><img align="left" alt="facebook" src="assets/facebook.png" height="18px"/></a>
 <a href="https://www.instagram.com/lskywalker96/"><img alt="instagram" src="assets/instagram.png" height="18px"/></a>
 
-Paulista, apaixonado pelo desenvolvimento de software (acredite 😉) estudo há mais 8 anos buscando e aperfeiçoando o conhecimento. Atualmente estudo na Trybe <a href="https://www.betrybe.com/"><img align="center" alt="trybe" src="https://avatars2.githubusercontent.com/u/55410300?s=200&v=4" alt="trybe" width="20"/></a> cursando o módulo de back-end. 
+Paulista, apaixonado pelo desenvolvimento de software (acredite 😉) estudo há mais 8 anos buscando e aperfeiçoando o conhecimento. Atualmente estudo na Trybe <a href="https://www.betrybe.com/"><img align="center" alt="trybe" src="https://avatars2.githubusercontent.com/u/55410300?s=200&v=4" alt="trybe" width="20"/></a> cursando o módulo de ciência da computação. 
 <br/>
 <br/>
 
