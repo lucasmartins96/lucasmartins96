@@ -3,7 +3,7 @@
 <a href="https://www.facebook.com/lucas.martins.3139/"><img align="left" alt="facebook" src="assets/facebook.png" height="18px"/></a>
 <a href="https://www.instagram.com/lskywalker96/"><img alt="instagram" src="assets/instagram.png" height="18px"/></a>
 
-Paulista, apaixonado pelo desenvolvimento de software (acredite 😉) estudo há mais 8 anos buscando e aperfeiçoando o conhecimento. Atualmente estudo na Trybe <a href="https://www.betrybe.com/"><img align="center" alt="trybe" src="https://avatars2.githubusercontent.com/u/55410300?s=200&v=4" alt="trybe" width="20"/></a> cursando o módulo de ciência da computação. 
+Paulista, apaixonado pelo desenvolvimento de software (acredite 😉) estudo há mais 8 anos buscando e aperfeiçoando o conhecimento. Atualmente sou desenvolvedor na Desrotulando.
 <br/>
 <br/>
 
@@ -14,7 +14,7 @@ Paulista, apaixonado pelo desenvolvimento de software (acredite 😉) estudo há
 
 <!-- - 🔭 &nbsp; Atualmente, estou trabalhando na ** ** -->
 <!-- - 🤝 &nbsp; Estou procurando colaborar no [nome-do-projeto]() -->
-- 🌱 &nbsp; No momento estou aprendendo NodeJS
+- 🌱 &nbsp; No momento estou aprendendo Flutter
 <!-- - 🎨 &nbsp; Using [this svg]() and Figma I made 👉 -->
 - 📫 &nbsp; Sinta-se à vontade para enviar um email para <lucasmartins.dsilva@gmail.com>
 <!-- - 📝 &nbsp; Verifique meu [currículo]() -->
