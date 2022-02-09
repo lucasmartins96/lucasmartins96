@@ -37,6 +37,7 @@ Paulista, apaixonado pelo desenvolvimento de software (acredite 😉) estudo há
 <a href="https://nodejs.org/" target="_blank"><img align="left" alt="nodejs" src="assets/languages_and_tools/nodejs.svg"/></a>
 <a href="https://sequelize.org/master/" target="_blank"><img align="left" alt="sequelize" src="assets/languages_and_tools/sequelize.svg"/></a>
 <a href="http://expressjs.com/" target="_blank"><img align="left" alt="expressjs" src="assets/languages_and_tools/express.svg"/></a>
+<a href="https://flutter.dev/" target="_blank"><img align="left" alt="flutter" src="assets/languages_and_tools/flutter.svg"/></a>
 <br />
 <br />
 <br />
