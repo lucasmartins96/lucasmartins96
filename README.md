@@ -3,7 +3,7 @@
 <a href="https://www.facebook.com/lucas.martins.3139/"><img align="left" alt="facebook" src="assets/facebook.png" height="18px"/></a>
 <a href="https://www.instagram.com/lskywalker96/"><img alt="instagram" src="assets/instagram.png" height="18px"/></a>
 
-Paulista, apaixonado pelo desenvolvimento de software (acredite 😉) estudo há mais 8 anos buscando e aperfeiçoando o conhecimento. Atualmente sou desenvolvedor na Desrotulando.
+Paulista, apaixonado pelo desenvolvimento de software (acredite 😉) sempre buscando e aperfeiçoando o conhecimento. Estou aberto a novas oportunidades.
 <br/>
 <br/>
 
