@@ -1,79 +1,70 @@
-## Olá 👋 Eu sou Lucas Martins!
-<a href="https://www.linkedin.com/in/lumartins-silva/"><img align="left" alt="linkedin" src="assets/linkedin.png" height="18px"/></a>
-<a href="https://www.facebook.com/lucas.martins.3139/"><img align="left" alt="facebook" src="assets/facebook.png" height="18px"/></a>
-<a href="https://www.instagram.com/lskywalker96/"><img alt="instagram" src="assets/instagram.png" height="18px"/></a>
+# Olá! Eu sou o Lucas Martins 👋
 
-Paulista, apaixonado pelo desenvolvimento de software (acredite 😉) sempre buscando e aperfeiçoando o conhecimento. Estou aberto a novas oportunidades.
-<br/>
-<br/>
+Desenvolvedor com foco em frontend e experiência na construção e evolução de aplicações web com React, Next.js e TypeScript.
 
-<img align="right" alt="GIF" src="assets/animation-gif.gif" width="360px"/>
+Gosto de transformar necessidades de produto em interfaces funcionais, responsivas e fáceis de usar, com atenção à organização do código, à performance e à experiência do usuário.
 
+## 💻 Sobre mim
 
-### 🧐 Mais sobre mim:
+- Experiência profissional com desenvolvimento web e mobile.
+- Atuação com React, Next.js, TypeScript e integração com APIs REST.
+- Experiência com Flutter, Node.js e bancos de dados relacionais e não relacionais.
+- Cursando Análise e Desenvolvimento de Sistemas na Universidade de Mogi das Cruzes, com conclusão prevista para dezembro de 2026.
+- Interesse em acessibilidade, UX, infraestrutura e aplicações de inteligência artificial.
 
-<!-- - 🔭 &nbsp; Atualmente, estou trabalhando na ** ** -->
-<!-- - 🤝 &nbsp; Estou procurando colaborar no [nome-do-projeto]() -->
-- 🌱 &nbsp; No momento estou aprendendo Flutter
-<!-- - 🎨 &nbsp; Using [this svg]() and Figma I made 👉 -->
-- 📫 &nbsp; Sinta-se à vontade para enviar um email para <lucasmartins.dsilva@gmail.com>
-<!-- - 📝 &nbsp; Verifique meu [currículo]() -->
-- 📚 &nbsp; Quando tenho tempo livre gosto de programar 👨🏻‍💻 e ouvir podcasts 
-<br />
-<br />
+## 🛠️ Tecnologias
 
-### 🔨 Linguagens e Ferramentas:
-<a href="https://www.kernel.org/" target="_blank"><img align="left" alt="linux" src="assets/languages_and_tools/linux.svg"/></a>
-<a href="https://git-scm.com/" target="_blank"><img align="left" alt="git" src="assets/languages_and_tools/git.svg"/></a>
-<a href="https://html.spec.whatwg.org/" target="_blank"><img align="left" alt="html5" src="assets/languages_and_tools/html5.svg" /></a>
-<a href="https://www.w3.org/TR/css3-roadmap/" target="_blank"><img align="left" alt="css3" src="assets/languages_and_tools/css3.svg" /></a>
-<a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript" target="_blank"><img align="left" alt="javascript" src="assets/languages_and_tools/js.svg" /></a>
-<a href="https://jestjs.io/" target="_blank"><img align="left" alt="jest" src="assets/languages_and_tools/jest.svg"/></a>
-<a href="https://reactjs.org/" target="_blank"><img align="left" alt="react" src="assets/languages_and_tools/react.svg"/></a>
-<a href="https://testing-library.com/docs/react-testing-library/intro/" target="_blank"><img align="left" alt="react testing library" src="assets/languages_and_tools/octopus.png" width="42"/></a>
-<a href="https://redux.js.org/" target="_blank"><img align="left" alt="redux" src="assets/languages_and_tools/redux.svg"/></a>
-<a href="https://www.mysql.com/" target="_blank"><img align="left" alt="mysql" src="assets/languages_and_tools/mysql.svg"/></a>
-<a href="https://www.mongodb.com/" target="_blank"><img align="left" alt="mongodb" src="assets/languages_and_tools/mongodb.svg"/></a>
-<a href="https://nodejs.org/" target="_blank"><img align="left" alt="nodejs" src="assets/languages_and_tools/nodejs.svg"/></a>
-<a href="https://sequelize.org/master/" target="_blank"><img align="left" alt="sequelize" src="assets/languages_and_tools/sequelize.svg"/></a>
-<a href="http://expressjs.com/" target="_blank"><img align="left" alt="expressjs" src="assets/languages_and_tools/express.svg"/></a>
-<a href="https://flutter.dev/" target="_blank"><img align="left" alt="flutter" src="assets/languages_and_tools/flutter.svg"/></a>
-<br />
-<br />
-<br />
+| Área | Tecnologias |
+| --- | --- |
+| Frontend | React, Next.js, TypeScript, JavaScript, HTML e CSS |
+| Estilização e estado | Styled Components e Zustand |
+| Backend e APIs | Node.js, Nest.js e APIs REST |
+| Mobile | Flutter e Dart |
+| Bancos de dados | PostgreSQL, MySQL e MongoDB |
+| Ferramentas e infraestrutura | Git, Docker, Linux, Azure, AWS e Firebase |
 
-### 📊 Status Github
+## 🚀 Experiência e contribuições
 
-[![Status GitHub Lucas Martins da Silva](https://github-readme-stats.vercel.app/api?username=lucasmartins96&show_icons=true&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
+### Fxn Capital · Desenvolvimento Frontend
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasmartins96&layout=compact&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
+Atuei na evolução de uma plataforma web, trabalhando com interfaces responsivas, gerenciamento de estado e integração com serviços.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lucasmartins96&color=blueviolet&style=plastic&label=PROFILE+VIEWS" alt="lucasmartins96" /> </p>
+Algumas contribuições:
 
-⭐️ Baseado em [rahul-jha98](https://github.com/rahul-jha98)
+- Redução de 20% no tamanho final do bundle com code splitting e substituição de dependências pesadas.
+- Padronização do feedback visual em todos os módulos da aplicação com notificações snackbar/toast.
+- Migração do gerenciamento de estado de Context API para Zustand.
+- Criação de uma camada de abstração com interceptadores para automatizar o tratamento de erros e o feedback ao usuário.
+- Desenvolvimento e manutenção de interfaces com foco em usabilidade e consistência visual.
 
-<!-- link abaixo é personalizado para cada usuário em https://yhype.me/ por favor, retire quando clonar! -->
-![](https://hit.yhype.me/github/profile?user_id=20894553)
-<!-- <a href='https://github.com/lucasmartins96/github-stats-transparent'> -->
+### Desrotulando · Desenvolvimento de Software
 
-<!-- ![Stats Overview](https://raw.githubusercontent.com/lucasmartins96/github-stats-transparent/output/generated/overview.svg)
-![Most Used Languages](https://raw.githubusercontent.com/lucasmartins96/github-stats-transparent/output/generated/languages.svg) -->
+Contribuí para o desenvolvimento de um aplicativo e de integrações voltadas à experiência e à autonomia dos usuários.
 
-</a>
+Algumas contribuições:
 
-<br>
+- Participação na migração do aplicativo para Flutter, adaptando telas, componentes e fluxos de navegação.
+- Desenvolvimento de uma Central de Ajuda com busca em tempo real, integrada à API do Intercom.
+- Integração com APIs externas utilizando Node.js.
+- Apoio à instrumentação de eventos no Analytics e Intercom para acompanhar o comportamento dos usuários.
 
-<!-- 
-**lucasmartins96/lucasmartins96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🌱 Interesses de estudo
 
-Here are some ideas to get you started:
+- Arquitetura frontend e organização de aplicações.
+- Acessibilidade, usabilidade e inclusão digital.
+- Infraestrutura e implantação de aplicações com Docker.
+- Inteligência artificial aplicada a projetos e automações.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
- -->
+## 🎓 Formação
+
+- Tecnólogo em Análise e Desenvolvimento de Sistemas — Universidade de Mogi das Cruzes  
+  Agosto de 2024 a dezembro de 2026 · Em andamento
+
+- Técnico em Informática para Internet — Escola Técnica de Poá  
+  Concluído em 2014
+
+## 📫 Contato
+
+- [LinkedIn](https://www.linkedin.com/in/lumartins-silva/)
+- [GitHub](https://github.com/lucasmartins96)
+- E-mail: lucasmartins.dsilva@gmail.com
